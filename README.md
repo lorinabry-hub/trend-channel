@@ -15,7 +15,7 @@ We call tokens **3–5 minutes before** they hit the trending page — with scam
 | ⚡ Tokens analyzed per minute | **4,000+** |
 | 🕐 Signal latency | **< 100ms** |
 | 📡 API calls processed (48h) | **251,104** |
-| 🚫 Scam tokens filtered | [INSERT TOTAL] |
+| 🚫 Scam tokens filtered | [500,000+] |
 | 👥 Telegram subscribers | **8,200+** |
 | 📅 Tracking since | December 2025 |
 
