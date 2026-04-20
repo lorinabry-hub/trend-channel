@@ -119,7 +119,7 @@ pumpfun-early-trending/
 
 | Platform | Link |
 |----------|------|
-| 📱 Telegram | [@pumpfunearlytrending](https://t.me/pumpfunearlytrending) |
+| 📱 Telegram | [@pumpfunearlytrending](https://t.me/pumpfunearlytrend) |
 | 🐦 X / Twitter | [@PumpEarlyTrend](https://x.com/PumpEarlyTrend) |
 | 🤖 Buy Bot | [@pumpfunearlytrendingbot](https://t.me/pumpfunearlytrendingbot) |
 
