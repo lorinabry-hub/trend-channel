@@ -78,7 +78,7 @@ Signals are posted automatically. No manual calls, no paid tiers, no insider gro
 
 **Q: Who runs this?**
 
-Contact: [@drako_pi](https://t.me/drako_pi) on Telegram.
+Contact: [@drako_pi](https://t.me/bryl6lz7s) on Telegram.
 
 ---
 
