@@ -39,7 +39,7 @@ We call tokens **3–5 minutes before** they hit the trending page — with scam
 | 9️⃣ | Retardcoin | **24x** | $463.9K |
 | 🔟 | OnlyFarms | **20x** | $300.8K |
 
-> All calls sourced from [@pumpfunearlytrending](https://t.me/pumpfunearlytrending).  
+> All calls sourced from [@pumpfunearlytrend](https://t.me/pumpfunearlytrend).  
 > Multiplier = peak MC ÷ signal MC. Timestamp-verified from Telegram alerts.
 
 ---
@@ -119,7 +119,7 @@ pumpfun-early-trending/
 
 | Platform | Link |
 |----------|------|
-| 📱 Telegram | [@pumpfunearlytrending](https://t.me/pumpfunearlytrend) |
+| 📱 Telegram | [@pumpfunearlytrend](https://t.me/pumpfunearlytrend) |
 | 🐦 X / Twitter | [@PumpEarlyTrend](https://x.com/PumpEarlyTrend) |
 | 🤖 Buy Bot | [@pumpfunearlytrendingbot](https://t.me/pumpfunearlytrendingbot) |
 
